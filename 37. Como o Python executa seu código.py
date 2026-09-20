@@ -1,1 +1,1 @@
-print('Olá, mundo!')
+# Ele esta mostrando uma calculadola para vermos como é um código de Python.
