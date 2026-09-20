@@ -1,0 +1,1 @@
+# Ele esta falando sobre a carreiras com Python.

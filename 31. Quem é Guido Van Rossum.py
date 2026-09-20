@@ -1,0 +1,1 @@
+# Falando sobre o criador do Python.
